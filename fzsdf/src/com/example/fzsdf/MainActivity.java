@@ -8,7 +8,7 @@ public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+        super.onCreate(savedInstanceState);    //hjhjhbcc
         setContentView(R.layout.activity_main);
     }
 
